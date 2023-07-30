@@ -24,7 +24,6 @@ Open Education -The Journal for Open and Distance Education and Educational Tech
 και ψηφιακός πόρος 2:https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=496874
 
 ### Επίσης στο παρακάτω διδακτικό σενάριο που δημοσιεύτηκε http://i-teacher.net/files/30o_teyxos_i_teacher_09_2021.pdf με τίτλο:
-
 **Η αξιοποίηση της τεχνολογίας του διαδραστικού βίντεο της Ψηφιακής Εκπαιδευτικής Πλατφόρμας e-me, κατά την εφαρμογή του μοντέλου της Ανεστραμμένης Τάξης σε ένα
 διδακτικό σενάριο με θέμα «Πολλαπλασιασμός των φυτών με καταβολάδες και παραφυάδες»**
 

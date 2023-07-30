@@ -29,8 +29,7 @@
 ### Δημοσίευση:
 Open Education -The Journal for Open and Distance Education and Educational Technology
 Volume 17, Number 1, 2021. Μπορείτε να δείτε τη δημοσίευση
-[εδώ](https://ejournals.epublishing.ekt.gr/index.php/openjournal/article/view/24982/2159
-4)
+https://ejournals.epublishing.ekt.gr/index.php/openjournal/article/view/24982/21594
 
 ### Οι κύριοι διαδραστικόι ψηφιακόι πόροι του σεναρίου αφορούν σε:
 Εφαρμογές Πρακτικής και Εξάσκησης και είναι τα διαδραστικά βίντεο [ψηφιακός πόρος

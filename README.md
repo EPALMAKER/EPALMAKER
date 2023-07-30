@@ -32,23 +32,15 @@ Volume 17, Number 1, 2021. Μπορείτε να δείτε τη δημοσίε�
 https://ejournals.epublishing.ekt.gr/index.php/openjournal/article/view/24982/21594
 
 ### Οι κύριοι διαδραστικόι ψηφιακόι πόροι του σεναρίου αφορούν σε:
-Εφαρμογές Πρακτικής και Εξάσκησης και είναι τα διαδραστικά βίντεο [ψηφιακός πόρος
-1](https://content.e-me.edu.gr/wp-admin/admin-
-ajax.php?action=h5p_embed&amp;id=108109&amp;fbclid=IwAR1h1CR5QFxATZfpGr4M3ocD2M5K-
-_VKxN37pv1teVmTScF9AEeMuVnu5Uc) και [ψηφιακός πόρος 2](https://content.e-
-me.edu.gr/wp-admin/admin-
-ajax.php?action=h5p_embed&amp;id=496874&amp;fbclid=IwAR1ercfIengpyZrYq4tOvEnFlflXwbTS9b8
-9s751JjLkkxTBiJ18gwu28qk)
+Εφαρμογές Πρακτικής και Εξάσκησης και είναι τα διαδραστικά βίντεο ψηφιακός πόρος
+1: https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=108109
+και ψηφιακός πόρος 2:https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=496874
 
-Επίσης στο παρακάτω διδακτικό σενάριο που δημοσιεύτηκε [εδώ](http://i-
-teacher.net/files/30o_teyxos_i_teacher_09_2021.pdf) με τίτλο:
+Επίσης στο παρακάτω διδακτικό σενάριο που δημοσιεύτηκε http://i-teacher.net/files/30o_teyxos_i_teacher_09_2021.pdf με τίτλο:
 
 **Η αξιοποίηση της τεχνολογίας του διαδραστικού βίντεο της Ψηφιακής Εκπαιδευτικής
 Πλατφόρμας e-me, κατά την εφαρμογή του μοντέλου της Ανεστραμμένης Τάξης σε ένα
 διδακτικό σενάριο με θέμα «Πολλαπλασιασμός των φυτών με καταβολάδες και
 παραφυάδες»**
 
-Υπάρχουν τα διαδραστικά βίντεο [ψηφιακός πόρος 3](https://content.e-me.edu.gr/wp-
-admin/admin-ajax.php?action=h5p_embed&amp;id=889117) και [ψηφιακός πόρος
-4:](https://content.e-me.edu.gr/wp-admin/admin-
-ajax.php?action=h5p_embed&amp;id=891649)
+Υπάρχουν τα διαδραστικά βίντεο ψηφιακός πόρος 3 https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=889117, ψηφιακός πόρος 4:https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=891649 και ψηφιακός πόρος 5: https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=106477

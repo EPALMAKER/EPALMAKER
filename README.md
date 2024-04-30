@@ -17,15 +17,16 @@
 Σκοπός της δραστηριότητας αυτής είναι η εξοικείωση των μαθητών/τριων με τη διαδικασία παραγωγής φυτών από μοσχεύματα και η απόκτηση δεξιοτήτων παραγωγής νέων φυτών.
 
 ### Δημοσίευση:
-Open Education -The Journal for Open and Distance Education and Educational Technology Volume 17, Number 1, 2021. Μπορείτε να δείτε τη δημοσίευση https://ejournals.epublishing.ekt.gr/index.php/openjournal/article/view/24982/21594
-
+Open Education -The Journal for Open and Distance Education and Educational Technology Volume 17, Number 1, 2021. Μπορείτε να δείτε τη δημοσίευση 
+<a href="https://ejournals.epublishing.ekt.gr/index.php/openjournal/article/view/24982/21594">εδώ</a>
 ### Οι κύριοι διαδραστικόι ψηφιακόι πόροι του σεναρίου αφορούν σε:
-Εφαρμογές Πρακτικής και Εξάσκησης και είναι τα διαδραστικά βίντεο ψηφιακός πόρος
-1: https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=108109
-και ψηφιακός πόρος 2:https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=496874
+Εφαρμογές Πρακτικής και Εξάσκησης και είναι τα διαδραστικά βίντεο <a href="https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=108109
+">ψηφιακός πόρος 1</a> και
+<a href="https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=496874
+">ψηφιακός πόρος 2</a>
 
-### Επίσης στο παρακάτω διδακτικό σενάριο που δημοσιεύτηκε http://i-teacher.net/files/30o_teyxos_i_teacher_09_2021.pdf με τίτλο:
+### Επίσης στο παρακάτω διδακτικό σενάριο που δημοσιεύτηκε στο <a href="http://i-teacher.net/files/30o_teyxos_i_teacher_09_2021.pdf">I teacher</a>  με τίτλο:
 **Η αξιοποίηση της τεχνολογίας του διαδραστικού βίντεο της Ψηφιακής Εκπαιδευτικής Πλατφόρμας e-me, κατά την εφαρμογή του μοντέλου της Ανεστραμμένης Τάξης σε ένα
 διδακτικό σενάριο με θέμα «Πολλαπλασιασμός των φυτών με καταβολάδες και παραφυάδες»**
 
-Υπάρχουν τα διαδραστικά βίντεο ψηφιακός πόρος 3 https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=889117, ψηφιακός πόρος 4:https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=891649 και ψηφιακός πόρος 5: https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=106477
+Υπάρχουν τα διαδραστικά βίντεο <a href="https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=889117">ψηφιακός πόρος 3</a>, <a href="https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=891649"> ψηφιακός πόρος 4 </a>, και <a href="https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=106477"> ψηφιακός πόρος 5</a>.
